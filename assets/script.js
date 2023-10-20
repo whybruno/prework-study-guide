@@ -28,5 +28,3 @@ function selectTopic() {
 console.log('Which topic should we study first?');
 
 selectTopic();
-
-/* Note to be able to make a new commit after git bash gives error. */
